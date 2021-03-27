@@ -1,0 +1,7 @@
+.post-detail {
+  width: 60%;
+  text-align: center;
+  box-shadow: inset 0 2px 8px #ff4949;
+  padding: 2rem;
+  margin: 2rem auto;
+}
